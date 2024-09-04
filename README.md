@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Unity, C#, Leet Code, React**
 
-- 👯 I’m looking to collaborate on [EGG-Snash](https://github.com/Tabis-h/EGG-Smash)
+- 👯 I’m looking to collaborate on [EGG-Smash](https://github.com/Tabis-h/EGG-Smash)
 
 - 📫 How to reach me **tabishsubedar50@gmail.com**
 
