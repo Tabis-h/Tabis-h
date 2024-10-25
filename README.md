@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tabish Subedar</h1>
-- 🔭 I’m currently working on **Online Game(name not yet decided)**
+- 🔭 I’m currently working on **Story Mode Game i am calling it "The Smart Detective"**
 
 - 🌱 I’m currently learning **Unity, C#, Leet Code, React**
 
