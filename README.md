@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Tabis-h)
 
-<h1 align="center">Hi 👋, I'm Tabish Subedar</h1>
+<h1 align="center">Hi 👋, I'm Tabish</h1>
 - 🔭 I’m currently working on **Story Mode Game i am calling it "The Smart Detective"**
 
 - 🌱 I’m currently learning **Unity, C#, Leet Code, React**
