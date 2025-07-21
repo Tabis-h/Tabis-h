@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Unity, C#, Leet Code, React**
 
-- 👯 I’m looking to collaborate on [EGG-Smash](https://github.com/Tabis-h/EGG-Smash)
-
 - 📫 How to reach me **tabishsubedar50@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IsxdO1nAFRss4Y7Te_ig5DvwIlazV0U2/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fTgibVeQZQtguWTpIPSysaWyWGUzRSRJ/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
